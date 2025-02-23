@@ -1,0 +1,1 @@
+This project is to practice the Odin Project HTML & Git knowledge by creating a Recipes website.
